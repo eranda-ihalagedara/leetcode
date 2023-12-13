@@ -1,1 +1,4 @@
-# leetcode
+# LeetCode
+Solving LeetCode problems
+
+## Problems
