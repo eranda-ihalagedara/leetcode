@@ -14,3 +14,19 @@ class Solution:
                 pmin = prices[i]
         
         return dmax
+
+
+    def maxProfit_optimized(self, prices: List[int]) -> int:
+        
+        pmin = prices[0]
+        dmax = 0
+
+        for p in prices:
+
+            if p-pmin > dmax:
+                dmax = p-pmin
+
+            elif p < pmin:
+                pmin = p
+        
+        return dmax
