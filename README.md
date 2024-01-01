@@ -12,5 +12,6 @@ Solving LeetCode problems
 121. [best_time_to_buy_and_sell_stock.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/121.best_time_to_buy_and_sell_stock.py)
 125. [valid_palindrome.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/125.valid_palindrome.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
+205. [isomorphic_strings.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
 383. [ransom_note.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/383.ransom_note.py)
 392. [is_subsequence.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/392.is_subsequence.py)
