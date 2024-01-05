@@ -13,6 +13,7 @@ Solving LeetCode problems
 125. [valid_palindrome.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/125.valid_palindrome.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
 219. [contains_duplicate_II.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/219.contains_duplicate_II.py)
+228. [summary_ranges.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/228.summary_ranges.py)
 242. [valid_anagram.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/242.valid_anagram.py)
 205. [isomorphic_strings.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
 290. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/290.word_pattern.py)
