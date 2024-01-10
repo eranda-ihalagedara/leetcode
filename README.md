@@ -18,6 +18,7 @@ Solving LeetCode problems
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
 219. [contains_duplicate_II.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/219.contains_duplicate_II.py)
+226. [invert_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/226._invert_binary_tree.py)
 228. [summary_ranges.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/228.summary_ranges.py)
 242. [valid_anagram.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/242.valid_anagram.py)
 205. [isomorphic_strings.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
