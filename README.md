@@ -14,6 +14,7 @@ Solving LeetCode problems
 104. [maximum_depth_of_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/104.maximum_depth_of_binary_tree.py)
 88. [merge_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/88.merge_sorted_array.py)
 101. [symmetric_tree](https://github.com/eranda-ihalagedara/leetcode/blob/main/101.symmetric_tree)
+112. [path_sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/112.path_sum.py)
 121. [best_time_to_buy_and_sell_stock.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/121.best_time_to_buy_and_sell_stock.py)
 125. [valid_palindrome.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/125.valid_palindrome.py)
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
