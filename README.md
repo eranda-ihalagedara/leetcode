@@ -20,6 +20,7 @@ Solving LeetCode problems
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
 219. [contains_duplicate_II.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/219.contains_duplicate_II.py)
+222. [count_complete_tree_nodes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/222.count_complete_tree_nodes.py)
 226. [invert_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/226._invert_binary_tree.py)
 228. [summary_ranges.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/228.summary_ranges.py)
 242. [valid_anagram.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/242.valid_anagram.py)
@@ -27,3 +28,4 @@ Solving LeetCode problems
 290. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/290.word_pattern.py)
 383. [ransom_note.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/383.ransom_note.py)
 392. [is_subsequence.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/392.is_subsequence.py)
+637. [average_of_levels_in_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/637.average_of_levels_in_binary_tree.py)
