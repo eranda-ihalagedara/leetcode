@@ -28,4 +28,5 @@ Solving LeetCode problems
 290. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/290.word_pattern.py)
 383. [ransom_note.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/383.ransom_note.py)
 392. [is_subsequence.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/392.is_subsequence.py)
+530. [minimum_absolute_difference_in_bst.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/530.minimum_absolute_difference_in_bst.py)
 637. [average_of_levels_in_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/637.average_of_levels_in_binary_tree.py)
