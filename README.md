@@ -14,6 +14,7 @@ Solving LeetCode problems
 58. [length_of_last_word.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/58.length_of_last_word.py)
 66. [plus_one.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/66.plus_one.py)
 67. [add_binary.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/67.add_binary.py)
+69. [sqrt.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/69.sqrt.py)
 88. [merge_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/88.merge_sorted_array.py)
 100. [same_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/100.same_tree.py)
 101. [symmetric_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/101.symmetric_tree.py)
