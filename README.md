@@ -17,6 +17,7 @@ Solving LeetCode problems
 69. [sqrt.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/69.sqrt.py)
 70. [climbing_stairs.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/70.climbing_stairs.py)
 88. [merge_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/88.merge_sorted_array.py)
+91. [decode_ways.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/91.decode_ways.py)
 100. [same_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/100.same_tree.py)
 101. [symmetric_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/101.symmetric_tree.py)
 104. [maximum_depth_of_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/104.maximum_depth_of_binary_tree.py)
