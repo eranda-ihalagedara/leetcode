@@ -12,6 +12,7 @@ Solving LeetCode problems
 28. [find_the_index_of_the_first_occurrence_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string.py)
 35. [search_insert_position.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/35.search_insert_position.py)
 58. [length_of_last_word.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/58.length_of_last_word.py)
+62. [unique_paths.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/62.unique_paths.py)
 66. [plus_one.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/66.plus_one.py)
 67. [add_binary.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/67.add_binary.py)
 69. [sqrt.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/69.sqrt.py)
