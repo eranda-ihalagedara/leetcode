@@ -30,6 +30,7 @@ Solving LeetCode problems
 136. [single_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/136.single_number.py)
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
+189. [rotate_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/189.rotate_array.py)
 190. [reverse_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
 191. [number_of_1_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
 219. [contains_duplicate_II.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/219.contains_duplicate_II.py)
