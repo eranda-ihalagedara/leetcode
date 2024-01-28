@@ -44,6 +44,7 @@ Solving LeetCode problems
 205. [h-index.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
 274. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/274.h-index.py)
 290. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/290.word_pattern.py)
+380. [insert_delete_getrandom_O1.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/380.insert_delete_getrandom_O1.py)
 383. [ransom_note.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/383.ransom_note.py)
 392. [is_subsequence.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/392.is_subsequence.py)
 509. [fibonacci_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/509.fibonacci_number.py)
