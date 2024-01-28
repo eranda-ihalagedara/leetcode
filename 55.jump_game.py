@@ -16,10 +16,9 @@ class Solution:
 	
 	def canJump_optimized(self, nums: List[int]) -> bool:
 
-        n = len(nums)
-        pos = 0
-        for i in range(n-1):
-            if nums[i] +i >= pos:
+        pos = len(nums)-1
+        for i in range(pos,-1,-1):
+            if i+nums[i] >= pos:
                 pos = i
             
-        return pos == 0
+        return not pos
