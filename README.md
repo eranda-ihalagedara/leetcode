@@ -4,6 +4,7 @@ Solving LeetCode problems
 ## Problems
 
 9. [palindrome_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/9.palindrome_number.py)
+12. [interger_to_roman.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/12.interger_to_roman.py)
 14. [longest_common_prefix.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/14.longest_common_prefix.py)
 20. [valid_parentheses.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/20.valid_parentheses.py)
 21. [merge_two_sorted_lists.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/21.merge_two_sorted_lists.py)
