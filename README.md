@@ -8,6 +8,7 @@ Solving LeetCode problems
 11. [container_with_most_water.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/11.container_with_most_water.py)
 12. [interger_to_roman.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/12.interger_to_roman.py)
 14. [longest_common_prefix.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/14.longest_common_prefix.py)
+15. [3sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/15.3sum.py)
 20. [valid_parentheses.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/20.valid_parentheses.py)
 21. [merge_two_sorted_lists.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/21.merge_two_sorted_lists.py)
 26. [remove_duplicates_from_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/26.remove_duplicates_from_sorted_array.py)
