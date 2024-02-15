@@ -3,6 +3,7 @@ Solving LeetCode problems
 
 ## Problems
 
+3. [3.longest_substring_without_repeating_characters.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/3.longest_substring_without_repeating_characters.py)
 6. [zigzag_conversion.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/6.zigzag_conversion.py)
 9. [palindrome_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/9.palindrome_number.py)
 11. [container_with_most_water.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/11.container_with_most_water.py)
@@ -49,6 +50,7 @@ Solving LeetCode problems
 228. [summary_ranges.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/228.summary_ranges.py)
 242. [valid_anagram.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/242.valid_anagram.py)
 205. [h-index.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
+209. [minimum_size_subarray_sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/209.minimum_size_subarray_sum.py)
 238. [product_of_array_except_self.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/238.product_of_array_except_self.py)
 274. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/274.h-index.py)
 290. [word_pattern.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/290.word_pattern.py)
