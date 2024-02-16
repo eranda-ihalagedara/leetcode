@@ -16,6 +16,7 @@ Solving LeetCode problems
 27. [remove_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/27.remove_element.py)
 28. [find_the_index_of_the_first_occurrence_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string.py)
 35. [search_insert_position.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/35.search_insert_position.py)
+36. [valid_sudoku.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/36.valid_sudoku.py)
 45. [jump_game_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/45.jump_game_ii.py)
 55. [jump_game.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/55.jump_game.py)
 58. [length_of_last_word.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/58.length_of_last_word.py)
