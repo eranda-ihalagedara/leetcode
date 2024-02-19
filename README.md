@@ -27,6 +27,7 @@ Solving LeetCode problems
 67. [add_binary.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/67.add_binary.py)
 69. [sqrt.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/69.sqrt.py)
 70. [climbing_stairs.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/70.climbing_stairs.py)
+73. [set_matrix_zeroes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/73.set_matrix_zeroes.py)
 80. [remove_duplicates_from_sorted_array_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/80.remove_duplicates_from_sorted_array_ii.py)
 88. [merge_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/88.merge_sorted_array.py)
 91. [decode_ways.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/91.decode_ways.py)
