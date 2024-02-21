@@ -40,6 +40,7 @@ Solving LeetCode problems
 121. [best_time_to_buy_and_sell_stock.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/121.best_time_to_buy_and_sell_stock.py)
 122. [best_time_to_buy_and_sell_stock_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/122.best_time_to_buy_and_sell_stock_ii.py)
 125. [valid_palindrome.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/125.valid_palindrome.py)
+128. [longest_consecutive_sequence.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/128.longest_consecutive_sequence.py)
 134. [gas_station.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/134.gas_station.py)
 136. [single_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/136.single_number.py)
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
