@@ -22,6 +22,8 @@ Solving LeetCode problems
 49. [group_anagrams.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/49.group_anagrams.py)
 54. [spiral_matrix.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/54.spiral_matrix.py)
 55. [jump_game.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/55.jump_game.py)
+56. [merge_intervals.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/56.merge_intervals.py)
+57. [insert_intervals.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/57.insert_interval.py)
 58. [length_of_last_word.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/58.length_of_last_word.py)
 62. [unique_paths.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/62.unique_paths.py)
 66. [plus_one.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/66.plus_one.py)
