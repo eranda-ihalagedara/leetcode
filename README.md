@@ -47,6 +47,7 @@ Solving LeetCode problems
 134. [gas_station.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/134.gas_station.py)
 136. [single_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/136.single_number.py)
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
+150. [evaluate_reverse_polish_notation.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/150.evaluate_reverse_polish_notation.py)
 151. [reverse_words_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/151.reverse_words_in_a_string.py)
 155. [min_stack.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/155.min_stack.py)
 167. [two_sum_ii_-_input_array_is_sorted.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/167.two_sum_ii_-_input_array_is_sorted.py)
