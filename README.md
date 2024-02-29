@@ -3,6 +3,7 @@ Solving LeetCode problems
 
 ## Problems
 
+2. [add_two_numbers.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/2.add_two_numbers.py)
 3. [longest_substring_without_repeating_characters.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/3.longest_substring_without_repeating_characters.py)
 6. [zigzag_conversion.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/6.zigzag_conversion.py)
 9. [palindrome_number.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/9.palindrome_number.py)
