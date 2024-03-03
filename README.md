@@ -27,6 +27,7 @@ Solving LeetCode problems
 56. [merge_intervals.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/56.merge_intervals.py)
 57. [insert_intervals.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/57.insert_interval.py)
 58. [length_of_last_word.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/58.length_of_last_word.py)
+61. [rotate_list.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/61.rotate_list.py)
 62. [unique_paths.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/62.unique_paths.py)
 66. [plus_one.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/66.plus_one.py)
 67. [add_binary.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/67.add_binary.py)
