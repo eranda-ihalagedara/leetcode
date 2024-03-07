@@ -55,6 +55,7 @@ Solving LeetCode problems
 138. [copy_list_with_random_pointer.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/138.copy_list_with_random_pointer.py)
 141. [linked_list_cycle.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/141.linked_list_cycle.py)
 146. [lru_cache.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/146.lru_cache.py)
+148. [sort_list.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/148.sort_list.py)
 150. [evaluate_reverse_polish_notation.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/150.evaluate_reverse_polish_notation.py)
 151. [reverse_words_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/151.reverse_words_in_a_string.py)
 155. [min_stack.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/155.min_stack.py)
