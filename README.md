@@ -64,6 +64,7 @@ Solving LeetCode problems
 189. [rotate_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/189.rotate_array.py)
 190. [reverse_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
 191. [number_of_1_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
+200. [number_of_islands.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/200.number_of_islands.py)
 219. [contains_duplicate_II.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/219.contains_duplicate_II.py)
 222. [count_complete_tree_nodes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/222.count_complete_tree_nodes.py)
 226. [invert_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/226._invert_binary_tree.py)
