@@ -45,6 +45,7 @@ Solving LeetCode problems
 101. [symmetric_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/101.symmetric_tree.py)
 104. [maximum_depth_of_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/104.maximum_depth_of_binary_tree.py)
 105. [construct_binary_tree_from_preorder_and_inorder_traversal.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/105.construct_binary_tree_from_preorder_and_inorder_traversal.py)
+106. [construct_binary_tree_from_inorder_and_postorder_traversal.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/106.construct_binary_tree_from_inorder_and_postorder_traversal.py)
 108. [convert_sorted_array_to_binary_search_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/108.convert_sorted_array_to_binary_search_tree.py)
 112. [path_sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/112.path_sum.py)
 121. [best_time_to_buy_and_sell_stock.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/121.best_time_to_buy_and_sell_stock.py)
