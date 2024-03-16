@@ -25,7 +25,7 @@ class Solution:
         return head.right
 
 
-    def flatten_optimized(self, root: Optional[TreeNode]) -> None:
+    def flatten_optimizedI(self, root: Optional[TreeNode]) -> None:
         """
         Do not return anything, modify root in-place instead.
         """
@@ -46,3 +46,28 @@ class Solution:
         cnode.right = right_subtree
 
         return root
+		
+
+    def flatten_optimizedII(self, root: Optional[TreeNode]) -> None:
+        """
+        Do not return anything, modify root in-place instead.
+        """
+        if not root:
+            return None
+
+        cnode = root
+        while cnode:
+
+            if cnode.left:
+                lnode = cnode.left
+                while lnode.right:
+                    lnode = lnode.right
+                lnode.right = cnode.right
+
+                cnode.right = cnode.left
+                cnode.left = None
+
+            cnode = cnode.right
+        
+        return root
+            
