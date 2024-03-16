@@ -66,6 +66,7 @@ Solving LeetCode problems
 155. [min_stack.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/155.min_stack.py)
 167. [two_sum_ii_-_input_array_is_sorted.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/167.two_sum_ii_-_input_array_is_sorted.py)
 169. [major_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/169.major_element.py)
+173. [binary_search_tree_iterator.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/173.binary_search_tree_iterator.py)
 189. [rotate_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/189.rotate_array.py)
 190. [reverse_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
 191. [number_of_1_bits.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/190.reverse_bits.py)
