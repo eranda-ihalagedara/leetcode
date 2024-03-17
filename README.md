@@ -75,6 +75,7 @@ Solving LeetCode problems
 222. [count_complete_tree_nodes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/222.count_complete_tree_nodes.py)
 226. [invert_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/226._invert_binary_tree.py)
 228. [summary_ranges.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/228.summary_ranges.py)
+236. [lowest_common_ancestor_of_a_binary_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/236.lowest_common_ancestor_of_a_binary_tree.py)
 242. [valid_anagram.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/242.valid_anagram.py)
 205. [h-index.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/205.isomorphic_strings.py)
 209. [minimum_size_subarray_sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/209.minimum_size_subarray_sum.py)
