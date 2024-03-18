@@ -41,6 +41,7 @@ Solving LeetCode problems
 88. [merge_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/88.merge_sorted_array.py)
 91. [decode_ways.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/91.decode_ways.py)
 92. [reverse_linked_list_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/92.reverse_linked_list_ii.py)
+98. [validate_binary_search_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/98.validate_binary_search_tree.py)
 100. [same_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/100.same_tree.py)
 101. [symmetric_tree.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/101.symmetric_tree.py)
 103. [binary_tree_zigzag_level_order_traversal.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/103.binary_tree_zigzag_level_order_traversal.py)
