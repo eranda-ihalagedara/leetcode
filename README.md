@@ -36,6 +36,7 @@ Solving LeetCode problems
 70. [climbing_stairs.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/70.climbing_stairs.py)
 71. [simplify_path.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/71.simplify_path.py)
 73. [set_matrix_zeroes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/73.set_matrix_zeroes.py)
+77. [combinations.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/77.combinations.py)
 80. [remove_duplicates_from_sorted_array_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/80.remove_duplicates_from_sorted_array_ii.py)
 82. [remove_duplicates_from_sorted_list_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/82.remove_duplicates_from_sorted_list_ii.py)
 86. [﻿partition_list.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/﻿86.partition_list.py)
