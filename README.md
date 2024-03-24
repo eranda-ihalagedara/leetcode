@@ -21,6 +21,7 @@ Solving LeetCode problems
 35. [search_insert_position.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/35.search_insert_position.py)
 36. [valid_sudoku.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/36.valid_sudoku.py)
 45. [jump_game_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/45.jump_game_ii.py)
+46. [permutations.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/46.permutations.py)
 48. [rotate_image.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/48.rotate_image.py)
 49. [group_anagrams.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/49.group_anagrams.py)
 54. [spiral_matrix.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/54.spiral_matrix.py)
