@@ -20,6 +20,7 @@ Solving LeetCode problems
 28. [find_the_index_of_the_first_occurrence_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string.py)
 35. [search_insert_position.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/35.search_insert_position.py)
 36. [valid_sudoku.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/36.valid_sudoku.py)
+39. [combination_sum.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/39.combination_sum.py)
 45. [jump_game_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/45.jump_game_ii.py)
 46. [permutations.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/46.permutations.py)
 48. [rotate_image.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/48.rotate_image.py)
