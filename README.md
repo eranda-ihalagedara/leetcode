@@ -15,6 +15,7 @@ Solving LeetCode problems
 19. [remove_nth_node_from_end_of_list.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/19.remove_nth_node_from_end_of_list.py)
 20. [valid_parentheses.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/20.valid_parentheses.py)
 21. [merge_two_sorted_lists.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/21.merge_two_sorted_lists.py)
+22. [generate_parentheses.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/22.generate_parentheses.py)
 26. [remove_duplicates_from_sorted_array.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/26.remove_duplicates_from_sorted_array.py)
 27. [remove_element.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/27.remove_element.py)
 28. [find_the_index_of_the_first_occurrence_in_a_string.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/28.find_the_index_of_the_first_occurrence_in_a_string.py)
