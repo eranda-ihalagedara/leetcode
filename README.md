@@ -40,6 +40,7 @@ Solving LeetCode problems
 71. [simplify_path.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/71.simplify_path.py)
 73. [set_matrix_zeroes.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/73.set_matrix_zeroes.py)
 77. [combinations.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/77.combinations.py)
+79. [word_search.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/79.word_search.py)
 80. [remove_duplicates_from_sorted_array_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/80.remove_duplicates_from_sorted_array_ii.py)
 82. [remove_duplicates_from_sorted_list_ii.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/82.remove_duplicates_from_sorted_list_ii.py)
 86. [﻿partition_list.py](https://github.com/eranda-ihalagedara/leetcode/blob/main/﻿86.partition_list.py)
